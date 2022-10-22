@@ -1,0 +1,149 @@
+#title{
+    background-color: #ff4c68;
+}
+
+#title .h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    font-weight: bold;
+    line-height: 1.5;
+    color: #fff;
+}
+#brand{
+    font-family: 'Merriweather', serif;
+    font-size: 40px;
+}
+
+#fluid{
+   padding: 3% 15%;
+}
+
+#title .row{
+    padding-top:70px;
+}
+
+
+/*    Title-button    */
+
+
+
+.nav-item{
+    padding:0 20px;
+}
+.nav-link{
+    font-family: 'Montserrat-thin', sans-serif;
+    font-size:20px;
+}
+/*      Title-img   */
+.title-img{
+    width: 60%;
+    transform: rotate(25deg);
+}
+.row .featb{
+    text-align: center;
+    padding: 5%;
+}
+.features{
+    margin-top: 20px;
+}
+.row h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+}
+.row p{
+    color: #8f8f8f;
+}
+#flu{
+    padding: 7% 15%;
+ }
+ .icon{
+     margin-bottom:1rem;
+     color: #ef8172;
+ }
+ .fa-solid:hover{
+     color:#ff4c68;
+ }
+ #h{
+     padding: 5%;
+ }
+
+ /*     testimonials    */
+.testimonials{
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+
+}
+.carousel-item{
+    padding: 7% 15% 0;
+}
+.testimonials h3{
+    font-family: 'Montserrat', sans-serif;
+}
+ .testimonials-dog-img{
+     width: 10%;
+     border-radius: 100%;
+     margin: 30px;
+ }
+ .testinomals-partners{
+    text-align: center;
+    background-color: #ef8172;
+ }
+ #press{
+    background-color: #ef8172;
+    text-align: center;
+ }
+ .testimonials-img{
+     width: 15%;
+     margin: 100px 20px;
+ }
+ #price{
+     text-align: center;
+     margin: 7%;
+ }
+ #price .price-box{
+     margin-top: 3%;
+ }
+ #price h3{
+    font-family: 'Montserrat', sans-serif;
+ }
+ #ultimate-footer{
+     background-color: #ff4c68;
+     padding: 7% 7%;
+     text-align: center;
+ }
+ #ultimate-footer h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    font-weight: bolder;
+    line-height: 1.5;
+    color: #fff;
+ }
+ .download-buttons{
+    font-family: "Poppins", sans-serif;
+    margin: 20px 10px 0px 0px;
+ }
+ #footer{
+     padding: 100px 15% 20%;
+     text-align: center;
+ }
+ #footer a{
+     color: #343a40;
+     padding: 0 30px;
+ }
+ #footer a:hover{
+     color: #fff;
+     border: 1px solid;
+ }
+ #foot{
+     padding-top: 30px;
+ }
+ #footer p{
+     font-family: "Poppins",sans-serif;
+ }
+ .hehe{
+    font-weight: 700;
+ }
+ .heart:hover{
+     color: #ef8172;
+ }
